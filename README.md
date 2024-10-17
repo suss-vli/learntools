@@ -1,6 +1,6 @@
 # learntools 
 
-This is the actual Kaggle's learntools minus the `ml_insights` that was causing issue
+This is the actual Kaggle's `learntools` minus the `ml_insights` that was causing issue. This also includes `vli` folder for `learntools` to be compatible with the functions of `labguide` and `suss`.
 
 
 ## Get started
